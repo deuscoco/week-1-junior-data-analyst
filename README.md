@@ -1,1 +1,1 @@
-[![Google Form](https://img.shields.io/badge/Google_Form-F44336?style=for-the-badge&logo=google&logoColor=white)](https://forms.gle/https://docs.google.com/forms/d/e/1FAIpQLScUTS5xM1VKLfxuQ3zerXOhR6e_51-VwLbU_LisGlUvcNoKzw/viewform?usp=sharing&ouid=101275310277422447030)
+[![Google Forms](https://img.shields.io/badge/Google_Forms-673AB7?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScUTS5xM1VKLfxuQ3zerXOhR6e_51-VwLbU_LisGlUvcNoKzw/viewform)
